@@ -3,7 +3,7 @@ module github.com/rahilsh/golang-lab
 go 1.25.1
 
 require (
-	github.com/go-sql-driver/mysql v1.10.0
+	github.com/go-sql-driver/mysql v1.10.1
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pkg/errors v0.9.1
 	google.golang.org/grpc v1.83.2
